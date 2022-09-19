@@ -1,0 +1,16 @@
+D:\JenkinsDemo\JenkinsConsole\bin\Debug\net5.0\JenkinsConsole.exe
+D:\JenkinsDemo\JenkinsConsole\bin\Debug\net5.0\JenkinsConsole.deps.json
+D:\JenkinsDemo\JenkinsConsole\bin\Debug\net5.0\JenkinsConsole.runtimeconfig.json
+D:\JenkinsDemo\JenkinsConsole\bin\Debug\net5.0\JenkinsConsole.runtimeconfig.dev.json
+D:\JenkinsDemo\JenkinsConsole\bin\Debug\net5.0\JenkinsConsole.dll
+D:\JenkinsDemo\JenkinsConsole\bin\Debug\net5.0\ref\JenkinsConsole.dll
+D:\JenkinsDemo\JenkinsConsole\bin\Debug\net5.0\JenkinsConsole.pdb
+D:\JenkinsDemo\JenkinsConsole\obj\Debug\net5.0\JenkinsConsole.csproj.AssemblyReference.cache
+D:\JenkinsDemo\JenkinsConsole\obj\Debug\net5.0\JenkinsConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\JenkinsDemo\JenkinsConsole\obj\Debug\net5.0\JenkinsConsole.AssemblyInfoInputs.cache
+D:\JenkinsDemo\JenkinsConsole\obj\Debug\net5.0\JenkinsConsole.AssemblyInfo.cs
+D:\JenkinsDemo\JenkinsConsole\obj\Debug\net5.0\JenkinsConsole.csproj.CoreCompileInputs.cache
+D:\JenkinsDemo\JenkinsConsole\obj\Debug\net5.0\JenkinsConsole.dll
+D:\JenkinsDemo\JenkinsConsole\obj\Debug\net5.0\ref\JenkinsConsole.dll
+D:\JenkinsDemo\JenkinsConsole\obj\Debug\net5.0\JenkinsConsole.pdb
+D:\JenkinsDemo\JenkinsConsole\obj\Debug\net5.0\JenkinsConsole.genruntimeconfig.cache
